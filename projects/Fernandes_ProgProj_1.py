@@ -24,7 +24,7 @@ try:
                 # Calculating the monthly interest rate
                 MonthlyRate = InterestRate/1200
                 # Calculating the monthly payment
-                Payment = LoanAmt * MonthlyRate * (((1 + MonthlyRate)**NumberMonths) / ((1 + MonthlyRate)**(NumberMonths - 1)))
+                Payment = LoanAmt * MonthlyRate * ((1 + MonthlyRate)**NumberMonths) / ((1 + MonthlyRate)**NumberMonths - 1)
                 # Print monthly payment rounded to two decimal places
                 print("Your monthly payment is going to be $", round(Payment, 2))
 

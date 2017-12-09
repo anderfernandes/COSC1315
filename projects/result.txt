@@ -1,0 +1,1 @@
+Average Number of Characters per Word: 6.46762589928057578 words of length 284 words of length 375 words of length 456 words of length 525 words of length 639 words of length 710 words of length 814 words of length 910 words of length 104 words of length 11 or moreTotal number of words: 278

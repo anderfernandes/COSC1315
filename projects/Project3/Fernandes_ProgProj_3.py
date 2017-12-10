@@ -1,6 +1,6 @@
 # Name: Anderson Fernandes
 # Date: September 24, 2017
-# Description: Programming Project 2, Calculate Interest Rate 2.0
+# Description: Programming Project 3
 
 # Imports
 
